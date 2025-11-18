@@ -9,5 +9,3 @@ else{
     texto.textContent = nome;
 }
 
-
-
